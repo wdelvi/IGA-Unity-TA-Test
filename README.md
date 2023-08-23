@@ -13,3 +13,5 @@ The game is Pachinko.
 - A player should be able to hit all stars on any given level.
 
 There are 5 problems that were deliberately added to the game.
+
+Upon debugging them and writing up your 2-3 paragrpah explanation, please send it to Willem with an approximate time of how long it took you.
